@@ -55,13 +55,13 @@ header p, header span {
 
 #board {
     display: grid;
-    grid-template-columns: 7vw 7vw 7vw 7vw 7vw;
+    grid-template-columns: 10% 10% 10% 10% 10%;
     gap: 40px;
 }
 
 .card {
     font-size: 1.5rem;
-    height: 20vh;
+    height: 15vh;
     background: #000;
     color: #fff;
     border: 3px solid #fff;
