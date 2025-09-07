@@ -56,7 +56,7 @@ header p, header span {
 #board {
     display: grid;
     grid-template-columns: 15vw 15vw 15vw 15vw 15vw;
-    gap: 40px;
+    gap: 15px;
 }
 
 .card {
