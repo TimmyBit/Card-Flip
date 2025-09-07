@@ -55,7 +55,7 @@ header p, header span {
 
 #board {
     display: grid;
-    grid-template-columns: 10% 10% 10% 10% 10%;
+    grid-template-columns: 15vw 15vw 15vw 15vw 15vw;
     gap: 40px;
 }
 
